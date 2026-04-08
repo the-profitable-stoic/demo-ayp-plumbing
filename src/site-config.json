@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "AYP. PLUMBING.",
+    "phone": "+17866834910",
+    "category": "plumbing company",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Plumbing Powerhouse",
+      "heroSubline": "AYP. Plumbing. tackles Miami's toughest plumbing challenges. From historic Art Deco to modern condos, we've got you covered.",
+      "aboutTitle": "Miami's Trusted Plumbing Experts",
+      "aboutText": [
+        "AYP. Plumbing. was founded on the principle of providing honest, reliable plumbing services to the Miami community. We've seen it all, from corroded pipes in South Beach to hurricane-damaged systems in Coconut Grove.",
+        "Our approach is simple: diagnose the problem accurately, explain the solution clearly, and execute the work with precision. We prioritize quality workmanship and lasting repairs over quick fixes.",
+        "We're proud to be a part of the Miami community and are committed to giving back. We actively support local initiatives and offer discounts to veterans and senior citizens."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing emergencies don't wait, and neither do we. We're available around the clock to handle any crisis."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprise charges. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "Protecting your property and providing peace of mind. We are fully licensed and insured for all plumbing work."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team consists of highly trained and experienced plumbers who are experts in their field."
+        }
+      ],
+      "ctaHeadline": "Solve Your Plumbing Problems Now",
+      "ctaSubline": "Call AYP. Plumbing. for fast, reliable service in Miami and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "leak-detection",
+        "name": "Leak Detection",
+        "shortDescription": "Pinpointing hidden leaks to prevent water damage and save you money.",
+        "description": "Miami's humid climate and aging infrastructure make leak detection a crucial service. Undetected leaks can lead to significant water damage, mold growth, and costly repairs. At AYP. Plumbing., we utilize advanced technology, including acoustic listening devices and thermal imaging, to accurately locate leaks behind walls, under floors, and in underground pipes.\n\nWe understand the unique challenges of Miami's diverse housing stock, from the historic Art Deco buildings of South Beach to the concrete block stucco (CBS) homes prevalent throughout the county. Our experienced technicians are skilled at navigating these challenges and providing effective leak detection services.\n\nOnce the leak is located, we provide a detailed report outlining the extent of the damage and recommend the most appropriate repair solutions. We prioritize non-invasive methods whenever possible to minimize disruption to your property. Don't let a hidden leak drain your wallet and damage your home – call AYP. Plumbing. for expert leak detection services.",
+        "process": [
+          "Step 1: Initial Inspection - We conduct a thorough visual inspection of your property to identify potential leak sources.",
+          "Step 2: Advanced Technology - We use acoustic listening devices and thermal imaging to pinpoint hidden leaks.",
+          "Step 3: Leak Location - We accurately locate the source of the leak, even behind walls or under floors.",
+          "Step 4: Detailed Report - We provide a comprehensive report outlining the extent of the damage and recommended repairs."
+        ],
+        "benefits": [
+          "Reduces water bills",
+          "Prevents water damage",
+          "Eliminates mold growth",
+          "Protects your property value"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if I have a hidden leak?",
+            "answer": "Signs of a hidden leak include unexplained increases in your water bill, damp spots on walls or ceilings, and the sound of running water when no fixtures are in use."
+          },
+          {
+            "question": "What types of technology do you use for leak detection?",
+            "answer": "We use advanced technology, including acoustic listening devices, thermal imaging cameras, and pressure testing equipment, to accurately locate leaks."
+          },
+          {
+            "question": "Do you offer leak repair services?",
+            "answer": "Yes, we offer comprehensive leak repair services to address any leaks we detect. Our experienced plumbers will provide a lasting solution to prevent future problems."
+          }
+        ]
+      },
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Clearing stubborn clogs and restoring proper drainage to your Miami home.",
+        "description": "Clogged drains are a common nuisance in Miami, often caused by a combination of factors including grease buildup, hair, and the region's hard water. AYP. Plumbing. offers comprehensive drain cleaning services to clear even the most stubborn clogs and restore proper drainage to your sinks, showers, and toilets.\n\nWe utilize a variety of techniques, including drain snaking and hydro jetting, to effectively remove blockages without damaging your pipes. Hydro jetting uses high-pressure water to blast away years of accumulated buildup, leaving your pipes clean and free-flowing. We understand the specific challenges posed by Miami's older plumbing systems and are equipped to handle any drain cleaning job, big or small.\n\nRegular drain cleaning is essential to prevent costly plumbing repairs and maintain the health of your pipes. Don't wait until a minor clog becomes a major problem – call AYP. Plumbing. for professional drain cleaning services in Miami.",
+        "process": [
+          "Step 1: Drain Inspection - We assess the severity of the clog and identify the best cleaning method.",
+          "Step 2: Drain Snaking - We use a specialized tool to break up and remove clogs in smaller drains.",
+          "Step 3: Hydro Jetting - We use high-pressure water to blast away stubborn buildup in larger pipes.",
+          "Step 4: Camera Inspection - We use a camera to inspect the drain and ensure it is completely clear."
+        ],
+        "benefits": [
+          "Eliminates slow drains",
+          "Prevents sewer backups",
+          "Extends the life of your pipes",
+          "Reduces unpleasant odors"
+        ],
+        "faq": [
+          {
+            "question": "What causes clogged drains?",
+            "answer": "Clogged drains are often caused by a combination of factors, including grease buildup, hair, soap scum, and mineral deposits."
+          },
+          {
+            "question": "What is hydro jetting?",
+            "answer": "Hydro jetting is a drain cleaning method that uses high-pressure water to blast away accumulated buildup in pipes."
+          },
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "We recommend having your drains cleaned at least once a year to prevent clogs and maintain proper drainage."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-repair",
+        "name": "Water Heater Repair & Installation",
+        "shortDescription": "Reliable water heater services, ensuring hot water when you need it most.",
+        "description": "A malfunctioning water heater can disrupt your daily routine and leave you without hot water. AYP. Plumbing. offers comprehensive water heater repair and installation services to keep your hot water flowing. We service all types of water heaters, including traditional tank models, tankless water heaters, and heat pump water heaters.\n\nOur experienced technicians can diagnose and repair a wide range of water heater problems, from leaks and faulty thermostats to sediment buildup and corrosion. We understand the importance of a properly functioning water heater, especially in Miami's humid climate, and we strive to provide fast and reliable service.\n\nIf your water heater is beyond repair, we can help you choose a new, energy-efficient model that meets your needs and budget. We offer professional installation services to ensure your new water heater is installed correctly and safely. From South Beach condos to Coral Gables homes, we handle all water heater needs.",
+        "process": [
+          "Step 1: Water Heater Inspection - We assess the condition of your water heater and diagnose the problem.",
+          "Step 2: Repair or Replacement - We repair or replace faulty components, such as thermostats, heating elements, and pressure relief valves.",
+          "Step 3: New Installation - We install new water heaters according to manufacturer specifications and local codes.",
+          "Step 4: Safety Check - We perform a thorough safety check to ensure your water heater is operating safely and efficiently."
+        ],
+        "benefits": [
+          "Restores hot water quickly",
+          "Improves energy efficiency",
+          "Extends the life of your water heater",
+          "Provides safe and reliable hot water"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last?",
+            "answer": "A traditional tank water heater typically lasts 8-12 years, while a tankless water heater can last 20 years or more."
+          },
+          {
+            "question": "What are the signs that my water heater needs repair?",
+            "answer": "Signs that your water heater needs repair include leaks, rusty water, strange noises, and inconsistent water temperature."
+          },
+          {
+            "question": "What is a tankless water heater?",
+            "answer": "A tankless water heater heats water on demand, eliminating the need for a storage tank. This can save energy and provide endless hot water."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-repair",
+        "name": "Sewer Line Repair & Replacement",
+        "shortDescription": "Expert sewer line services to address leaks, blockages, and damage.",
+        "description": "Damaged sewer lines can cause unpleasant odors, sewage backups, and potential health hazards. AYP. Plumbing. offers expert sewer line repair and replacement services to address leaks, blockages, and other issues. We understand the complexities of Miami's sewer systems and are equipped to handle any sewer line problem.\n\nWe utilize trenchless technology whenever possible to minimize disruption to your property. Trenchless repair methods, such as pipe lining and pipe bursting, allow us to repair or replace sewer lines without digging up your yard. This can save you time, money, and the hassle of extensive landscaping repairs.\n\nIf trenchless methods are not feasible, we also offer traditional excavation services to repair or replace damaged sewer lines. Our experienced technicians will carefully excavate the area around the sewer line, make the necessary repairs, and restore your property to its original condition. Sewer line issues are common in older Miami neighborhoods like Little Havana. We're prepared for these challenges.",
+        "process": [
+          "Step 1: Sewer Line Inspection - We use a camera to inspect the sewer line and identify the source of the problem.",
+          "Step 2: Trenchless Repair - We use pipe lining or pipe bursting to repair the sewer line without digging.",
+          "Step 3: Excavation - If trenchless methods are not feasible, we carefully excavate the area around the sewer line.",
+          "Step 4: Sewer Line Replacement - We replace damaged sewer lines with new, durable materials."
+        ],
+        "benefits": [
+          "Eliminates sewage backups",
+          "Prevents health hazards",
+          "Restores proper drainage",
+          "Protects your property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a damaged sewer line?",
+            "answer": "Signs of a damaged sewer line include sewage backups, slow drains, foul odors, and soggy areas in your yard."
+          },
+          {
+            "question": "What is trenchless sewer repair?",
+            "answer": "Trenchless sewer repair is a method of repairing or replacing sewer lines without digging up your yard."
+          },
+          {
+            "question": "How much does sewer line repair cost?",
+            "answer": "The cost of sewer line repair varies depending on the extent of the damage and the repair method used. We provide free estimates for all sewer line services."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortDescription": "Professional installation of faucets, sinks, toilets, and other plumbing fixtures.",
+        "description": "Upgrading your plumbing fixtures can enhance the look and functionality of your kitchen and bathrooms. AYP. Plumbing. offers professional fixture installation services for faucets, sinks, toilets, showers, and other plumbing fixtures. We work with all types of fixtures, from basic models to high-end designer brands.\n\nOur experienced plumbers will ensure your new fixtures are installed correctly and safely, according to manufacturer specifications and local codes. We pay attention to detail and take pride in providing clean, professional installations. Whether you're renovating your entire bathroom or simply replacing a leaky faucet, we can help.\n\nWe understand the unique plumbing requirements of Miami's diverse housing stock, from the historic homes of Coral Gables to the modern condos of Brickell. Our technicians are skilled at navigating these challenges and providing seamless fixture installations.",
+        "process": [
+          "Step 1: Fixture Selection - We help you choose the right fixtures for your needs and budget.",
+          "Step 2: Old Fixture Removal - We carefully remove your old fixtures without damaging your plumbing.",
+          "Step 3: New Fixture Installation - We install your new fixtures according to manufacturer specifications.",
+          "Step 4: Leak Testing - We perform a thorough leak test to ensure your new fixtures are properly sealed."
+        ],
+        "benefits": [
+          "Enhances the look of your kitchen and bathrooms",
+          "Improves functionality",
+          "Increases property value",
+          "Provides leak-free performance"
+        ],
+        "faq": [
+          {
+            "question": "Can you install any type of plumbing fixture?",
+            "answer": "Yes, we can install all types of plumbing fixtures, including faucets, sinks, toilets, showers, and bathtubs."
+          },
+          {
+            "question": "Do you offer fixture selection assistance?",
+            "answer": "Yes, we can help you choose the right fixtures for your needs and budget."
+          },
+          {
+            "question": "How long does fixture installation take?",
+            "answer": "The time required for fixture installation varies depending on the type of fixture and the complexity of the installation. We provide estimated timelines before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-plumbing",
+        "name": "24/7 Emergency Plumbing",
+        "shortDescription": "Fast, reliable emergency plumbing services available 24/7 in Miami.",
+        "description": "Plumbing emergencies can strike at any time, causing significant damage and disruption. AYP. Plumbing. offers 24/7 emergency plumbing services to address urgent plumbing issues, such as burst pipes, sewer backups, and overflowing toilets. We understand the importance of a rapid response and strive to arrive at your property as quickly as possible.\n\nOur experienced technicians are equipped to handle a wide range of plumbing emergencies. We will quickly assess the situation, diagnose the problem, and implement the most effective solution to minimize damage and restore your plumbing system. Miami's hurricane season brings unique challenges, and we're prepared to handle storm-related plumbing emergencies.\n\nDon't hesitate to call AYP. Plumbing. for fast, reliable emergency plumbing services in Miami. We're available around the clock to handle any plumbing crisis.",
+        "process": [
+          "Step 1: Emergency Call - You call our 24/7 emergency hotline.",
+          "Step 2: Rapid Dispatch - We dispatch a qualified plumber to your location immediately.",
+          "Step 3: Problem Assessment - Our plumber assesses the situation and diagnoses the problem.",
+          "Step 4: Emergency Repair - We implement the most effective solution to minimize damage and restore your plumbing system."
+        ],
+        "benefits": [
+          "Fast response time",
+          "Minimizes water damage",
+          "Restores plumbing functionality",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a plumbing emergency?",
+            "answer": "A plumbing emergency is any plumbing issue that poses an immediate threat to your property or health, such as a burst pipe, sewer backup, or overflowing toilet."
+          },
+          {
+            "question": "How quickly can you respond to a plumbing emergency?",
+            "answer": "We strive to arrive at your property as quickly as possible, typically within 30-60 minutes, depending on your location and traffic conditions."
+          },
+          {
+            "question": "What should I do while waiting for the plumber to arrive?",
+            "answer": "While waiting for the plumber to arrive, turn off the water supply to the affected area, if possible, and try to contain the leak or spill."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. is proud to offer comprehensive plumbing services to the residents and businesses of Fort Lauderdale, Florida. From the vibrant beaches to the iconic Intracoastal Waterway, we understand the unique plumbing needs of this dynamic city. We are dedicated to providing reliable and efficient solutions for all your plumbing concerns.\n\nFort Lauderdale's diverse housing stock, including many waterfront homes built in the 1960s and 70s, often requires specialized plumbing expertise. AYP. PLUMBING.'s experienced technicians are well-versed in handling the challenges presented by older plumbing systems, as well as providing modern upgrades and installations. We also understand the impact of the year-round heat and humidity on plumbing systems, ensuring that our solutions are built to last.",
+        "localContext": "Fort Lauderdale, known for its extensive canal system and boating culture, requires plumbing services that can withstand the coastal environment and the demands of waterfront living.",
+        "nearbyAreas": [
+          "Hollywood",
+          "Pompano Beach",
+          "Wilton Manors"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. is your trusted plumbing partner in Coral Springs, Florida. We are committed to providing prompt, professional, and affordable plumbing services to homeowners and businesses throughout the city. Our team of licensed plumbers is equipped to handle any plumbing issue, big or small.\n\nCoral Springs, a planned community developed primarily in the 1980s and 90s, features a consistent style of homes with predictable plumbing layouts. AYP. PLUMBING. has extensive experience working in these types of homes, allowing us to quickly diagnose and resolve common plumbing problems. We also understand the challenges posed by the year-round heat and humidity, ensuring that our repairs and installations are durable and long-lasting.",
+        "localContext": "Coral Springs, a well-planned community known for its family-friendly atmosphere, relies on dependable plumbing services to maintain its high quality of life.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. is proud to serve the growing community of Pembroke Pines, Florida. We offer a full range of plumbing services, from routine maintenance to emergency repairs. Our goal is to provide our customers with the highest level of service and satisfaction.\n\nPembroke Pines, characterized by its planned developments built primarily in the 1990s, presents unique plumbing considerations. AYP. PLUMBING. is familiar with the plumbing systems common in these homes and can efficiently address any plumbing issues. We also understand the impact of the local climate, with its year-round heat and humidity, on plumbing infrastructure, and we provide solutions designed to withstand these conditions.",
+        "localContext": "Pembroke Pines, a large suburban city known for its family-oriented amenities, depends on reliable plumbing services to support its residential needs.",
+        "nearbyAreas": [
+          "Miramar",
+          "Weston",
+          "Cooper City"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. provides exceptional plumbing services to the discerning residents of Boca Raton, Florida. We understand the high standards of this community and are dedicated to delivering top-quality workmanship and customer service.\n\nBoca Raton is known for its luxury waterfront estates and upscale homes. AYP. PLUMBING. specializes in providing plumbing services that meet the unique needs of these properties, including high-end fixture installations, leak detection, and water filtration systems. We also understand the challenges presented by the year-round heat and humidity, ensuring that our solutions are both aesthetically pleasing and built to last.",
+        "localContext": "Boca Raton, a city renowned for its affluence and beautiful beaches, demands plumbing services that are both reliable and aesthetically sophisticated.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Deerfield Beach",
+          "Highland Beach"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. is committed to providing reliable and affordable plumbing services to the residents and businesses of West Palm Beach, Florida. We understand the unique plumbing needs of this historic city and are dedicated to delivering exceptional customer service.\n\nWest Palm Beach features a diverse range of architectural styles, including many historic homes built in the 1920s, 30s, 40s and 50s. AYP. PLUMBING. has extensive experience working with older plumbing systems and can provide expert repairs and upgrades while preserving the character of these homes. We also understand the impact of the year-round heat and humidity on plumbing infrastructure, ensuring that our solutions are durable and long-lasting.",
+        "localContext": "West Palm Beach, a city with a rich history and vibrant arts scene, requires plumbing services that can address the challenges of its diverse architecture and coastal environment.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth Beach",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami",
+        "slug": "miami-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. is your trusted source for all plumbing needs in Miami, Florida. From bustling downtown to the vibrant neighborhoods, we provide comprehensive plumbing solutions for residential and commercial properties. We are dedicated to providing prompt, reliable, and affordable service.\n\nMiami's diverse architecture, ranging from historic art deco buildings to modern high-rises, presents a variety of plumbing challenges. AYP. PLUMBING. has the experience and expertise to handle any plumbing issue, regardless of the age or style of your property. We also understand the impact of the year-round heat and humidity, as well as the potential for hurricanes and flooding, on plumbing systems, and we provide solutions designed to withstand these conditions.",
+        "localContext": "Miami, a vibrant and international city, demands plumbing services that are responsive, efficient, and adaptable to its unique environment.",
+        "nearbyAreas": [
+          "Miami Beach",
+          "Coral Gables",
+          "Hialeah"
+        ]
+      },
+      {
+        "city": "Hialeah",
+        "slug": "hialeah-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. is proud to offer our plumbing expertise to the residents and businesses of Hialeah, Florida. We understand the unique plumbing needs of this community and are committed to providing reliable, affordable, and efficient solutions.\n\nHialeah, a vibrant city with a large Cuban-American population, features a mix of residential and commercial properties, many of which were built in the mid-20th century. AYP. PLUMBING. is experienced in working with the plumbing systems common in these properties and can provide expert repairs, upgrades, and installations. We also understand the impact of the year-round heat and humidity on plumbing infrastructure, ensuring that our solutions are durable and long-lasting.",
+        "localContext": "Hialeah, a bustling city with a strong cultural identity, relies on dependable plumbing services to support its diverse residential and commercial needs.",
+        "nearbyAreas": [
+          "Miami Lakes",
+          "Doral",
+          "Hialeah Gardens"
+        ]
+      },
+      {
+        "city": "Plantation",
+        "slug": "plantation-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. is dedicated to providing reliable plumbing services to the residents and businesses of Plantation, Florida. We offer a wide range of plumbing solutions, from routine maintenance to emergency repairs, ensuring your plumbing systems function optimally.\n\nPlantation features a mix of residential neighborhoods, including single-family homes and townhouses, many built in the late 20th century. AYP. PLUMBING. is familiar with the common plumbing systems in these homes and can efficiently address any plumbing concerns. We also understand the challenges posed by the year-round heat and humidity, ensuring that our repairs and installations are durable and long-lasting.",
+        "localContext": "Plantation, a family-friendly city known for its beautiful parks and tree-lined streets, relies on dependable plumbing services to maintain its residential appeal.",
+        "nearbyAreas": [
+          "Sunrise",
+          "Davie",
+          "Fort Lauderdale"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. is proud to serve the growing community of Miramar, Florida, providing top-notch plumbing services to homeowners and businesses alike. We are committed to delivering prompt, professional, and affordable solutions for all your plumbing needs.\n\nMiramar's rapid growth in recent decades has resulted in a diverse housing stock, with many homes built in the late 20th and early 21st centuries. AYP. PLUMBING. has extensive experience working with the modern plumbing systems found in these homes and can efficiently diagnose and resolve any plumbing issues. We also understand the impact of the year-round heat and humidity, ensuring that our repairs and installations are built to last.",
+        "localContext": "Miramar, a diverse and vibrant city, depends on reliable plumbing services to support its growing residential and commercial sectors.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Hollywood",
+          "Weston"
+        ]
+      },
+      {
+        "city": "Sunrise",
+        "slug": "sunrise-fl",
+        "state": "FL",
+        "content": "AYP. PLUMBING. is committed to providing exceptional plumbing services to the residents and businesses of Sunrise, Florida. We offer a comprehensive range of solutions, from routine maintenance to emergency repairs, ensuring your plumbing systems are always in top condition.\n\nSunrise features a mix of residential neighborhoods and commercial areas, with many homes built in the late 20th century. AYP. PLUMBING. is familiar with the plumbing systems common in these homes and can efficiently address any plumbing concerns. We also understand the challenges posed by the year-round heat and humidity, ensuring that our repairs and installations are durable and long-lasting.",
+        "localContext": "Sunrise, a city known for its shopping and entertainment options, relies on dependable plumbing services to support its residential and commercial infrastructure.",
+        "nearbyAreas": [
+          "Plantation",
+          "Davie",
+          "Tamarac"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "AYP. Plumbing. replaced my old water heater quickly and efficiently. The technician was professional and explained everything clearly. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "I had a severely clogged drain in my kitchen sink, and AYP. Plumbing. was able to clear it quickly. The price was reasonable, and the plumber was very friendly.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Sarah L.",
+        "rating": 5,
+        "service": "Leak Detection & Repair",
+        "text": "Excellent service! AYP. Plumbing. found a hidden leak in my bathroom wall and repaired it before it caused major damage. They were prompt, professional, and thorough.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Sewer Line Repair",
+        "text": "AYP. Plumbing. did an amazing job repairing my sewer line. They used trenchless technology, which saved me a lot of money and avoided digging up my entire yard. The team was courteous and professional throughout the process.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 4,
+        "service": "Toilet Installation",
+        "text": "The plumber did a great job installing a new toilet in my powder room. He was on time, efficient, and cleaned up after himself. I'm very happy with the service.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Emergency Plumbing",
+        "text": "I had a burst pipe in the middle of the night, and AYP. Plumbing. responded immediately. The plumber arrived within 30 minutes and quickly stopped the leak. I'm so grateful for their fast and reliable service!",
+        "date": "2024-10-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Miami Plumbing Experts | AYP. Plumbing.",
+        "description": "Reliable plumbing services in Miami, FL. Emergency repairs, leak detection, drain cleaning, and more. Call now for fast service!"
+      },
+      "about": {
+        "title": "About AYP. Plumbing. | Miami Plumbers",
+        "description": "Learn about AYP. Plumbing.'s commitment to quality plumbing services in Miami. Experienced and trusted plumbing professionals."
+      },
+      "services": {
+        "title": "Plumbing Services | AYP. Plumbing. Miami",
+        "description": "Comprehensive plumbing services in Miami, FL. Leak detection, drain cleaning, water heater repair, and more. Get a free estimate today!"
+      },
+      "contact": {
+        "title": "Contact AYP. Plumbing. | Miami, FL",
+        "description": "Contact AYP. Plumbing. for all your plumbing needs in Miami, FL. Call us today for fast and reliable service. Free estimates available."
+      },
+      "reviews": {
+        "title": "AYP. Plumbing. Reviews | Miami Plumbers",
+        "description": "Read reviews from satisfied customers of AYP. Plumbing. in Miami, FL. Trusted plumbing services with excellent customer satisfaction."
+      },
+      "service-areas": {
+        "title": "Service Areas | AYP. Plumbing. Miami",
+        "description": "AYP. Plumbing. serves Miami, Fort Lauderdale, Coral Springs, and surrounding areas. Reliable plumbing services near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "leak-detection": "/images/service-leak-detection.webp",
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-repair": "/images/service-water-heater-repair.webp",
+      "sewer-line-repair": "/images/service-sewer-line-repair.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp",
+      "emergency-plumbing": "/images/service-emergency-plumbing.webp"
+    },
+    "servicesResponsive": {
+      "leak-detection": {
+        "src": "/images/service-leak-detection.webp",
+        "srcset": "/images/service-leak-detection-400w.webp 400w, /images/service-leak-detection-800w.webp 800w, /images/service-leak-detection-1200w.webp 1200w, /images/service-leak-detection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-repair": {
+        "src": "/images/service-water-heater-repair.webp",
+        "srcset": "/images/service-water-heater-repair-400w.webp 400w, /images/service-water-heater-repair-800w.webp 800w, /images/service-water-heater-repair-1200w.webp 1200w, /images/service-water-heater-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-repair": {
+        "src": "/images/service-sewer-line-repair.webp",
+        "srcset": "/images/service-sewer-line-repair-400w.webp 400w, /images/service-sewer-line-repair-800w.webp 800w, /images/service-sewer-line-repair-1200w.webp 1200w, /images/service-sewer-line-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-plumbing": {
+        "src": "/images/service-emergency-plumbing.webp",
+        "srcset": "/images/service-emergency-plumbing-400w.webp 400w, /images/service-emergency-plumbing-800w.webp 800w, /images/service-emergency-plumbing-1200w.webp 1200w, /images/service-emergency-plumbing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
